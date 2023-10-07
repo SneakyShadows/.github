@@ -1,6 +1,4 @@
-# Hey sneaking here? This is Sneaky Shadows 👀
-
-
+# Hey sneaking here? This is Sneaky Shadows 👀  <img alt="logo" src="https://github.com/SneakyShadows/.github/assets/92221630/50774f3d-165a-45f5-bddf-8f3805347ad6" align="right"/>
 <!--
 
 
