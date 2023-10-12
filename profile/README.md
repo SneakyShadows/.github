@@ -15,4 +15,6 @@ We are a community of young developers, looking forward to contribute to open-so
 Everyone is heartily welcome ✨  We are open to all contributions that could make us better the next day! 
 
 ## Stay Tuned
+
+[<img src="https://img.shields.io/badge/Discord-server?logo=discord&label=Join%20Us!&labelColor=black&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
 [<img src="https://img.shields.io/badge/GitHub-SneakyShadows-black?logo=github" alt="SneakyShadows">](https://github.com/SneakyShadows)
