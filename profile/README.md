@@ -10,7 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+We are a community of young developers, looking forward to contribute to open-source projects and innovate new programs that could be useful for various means of people around us in daily tasks.
 
+Everyone is heartily welcome ✨  We are open to all contributions that could make us better the next day! 
 
 ## Stay Tuned
 [<img src="https://img.shields.io/badge/GitHub-SneakyShadows-black?logo=github" alt="SneakyShadows">](https://github.com/SneakyShadows)
