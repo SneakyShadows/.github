@@ -10,9 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We are a community of young developers, looking forward to contributing to open-source projects and innovating new programs that could be useful for various means of people around us in daily tasks.
+We are a community of young developers, looking forward to contribute to open-source projects and innovative new programs that could be useful for various means of people around us in daily tasks.
 
-Everyone is heartily welcome ✨  We are open to all contributions that could make us better the next day! 
+Everyone is heartily welcome ✨  We are open to all collaborations that could make us better the next day! 
 
 ## Stay Tuned
 
