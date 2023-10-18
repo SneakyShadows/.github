@@ -16,5 +16,5 @@ Everyone is heartily welcome ✨  We are open to all contributions that could ma
 
 ## Stay Tuned
 
-[<img src="https://img.shields.io/badge/Discord-server?logo=discord&label=Join%20Us!&labelColor=black&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
-[<img src="https://img.shields.io/badge/GitHub-SneakyShadows-black?logo=github" alt="SneakyShadows">](https://github.com/SneakyShadows)
+[<img src="https://img.shields.io/badge/Join_us_!-000?style=for-the-badge&logo=Discord&logoColor=blue&label=Discord&labelColor=black&color=ffd900&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
+[<img src="https://img.shields.io/badge/Sneaky_Shadows-000?style=for-the-badge&logo=Github&logoColor=white&label=GitHub&labelColor=black&color=ffd900" alt="SneakyShadows">](https://github.com/SneakyShadows)
