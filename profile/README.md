@@ -14,7 +14,19 @@ We are a community of young developers, looking forward to contribute to open-so
 
 Everyone is heartily welcome ✨  We are open to all collaborations that could make us better the next day! 
 
-## Stay Tuned
+## Tools: 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=powershell) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![Browser](https://img.shields.io/badge/MS--Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)	![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+
+<br/>
+
+![Static Badge](https://img.shields.io/badge/School%20Projects-0a00a0?style=for-the-badge&logo=python&label=Currently%20on&labelColor=000)
+![Static Badge](https://img.shields.io/badge/Twilio-0ffff0?style=for-the-badge&logo=twilio&label=api&labelColor=000&color=ff0ff0)
+
+<br/>
+
+## Stay Tuned!
 
 [<img src="https://img.shields.io/badge/Discord-server?logo=discord&label=Join%20Us!&labelColor=black&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
 [<img src="https://img.shields.io/badge/GitHub-SneakyShadows-black?logo=github" alt="SneakyShadows">](https://github.com/SneakyShadows)
