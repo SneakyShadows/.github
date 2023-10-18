@@ -23,6 +23,8 @@ Everyone is heartily welcome ✨  We are open to all collaborations that could m
 
 ![Static Badge](https://img.shields.io/badge/School%20Projects-0a00a0?style=for-the-badge&logo=python&label=Currently%20on&labelColor=000)
 ![Static Badge](https://img.shields.io/badge/Twilio-0ffff0?style=for-the-badge&logo=twilio&label=api&labelColor=000&color=ff0ff0)
+![Static Badge](https://img.shields.io/badge/Digital%20Ocean-000fff?style=for-the-badge&logo=digitalocean&label=Cloud&labelColor=000&color=0000ff)
+
 
 <br/>
 
