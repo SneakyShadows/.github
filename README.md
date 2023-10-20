@@ -42,7 +42,6 @@ Join our online platforms to stay updated and connected:
 
 [<img src="https://img.shields.io/badge/Join_us_!-000?style=for-the-badge&logo=Discord&logoColor=blue&label=Discord&labelColor=black&color=be9f5b&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
 [<img src="https://img.shields.io/badge/Sneaky_Shadows-000?style=for-the-badge&logo=Github&logoColor=white&label=GitHub&labelColor=000&color=be9f5b" alt="SneakyShadows">](https://github.com/SneakyShadows) &nbsp;
-
 [<img src="https://img.shields.io/badge/Sneaky%20Shadows-000?style=for-the-badge&logo=X&logoColor=fff&label=X%20(Twitter)&labelColor=000&color=be9f5b" alt="SneakyShadows">](https://twitter.com/ShadowsSneaky)
 
 
