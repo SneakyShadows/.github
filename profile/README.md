@@ -15,7 +15,7 @@ We are a community of young developers, looking forward to contribute to open-so
 Everyone is heartily welcome ✨  We are open to all collaborations that could make us better the next day! 
 
 ## Tools: 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=powershell) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=powershell) ![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) 
 ![Browser](https://img.shields.io/badge/MS--Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)	![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 
