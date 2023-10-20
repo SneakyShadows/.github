@@ -1,34 +1,47 @@
-# Hey, Sneaking here? We are Sneaky Shadows 👀  <img alt="logo" src="https://github.com/SneakyShadows/.github/assets/92221630/50774f3d-165a-45f5-bddf-8f3805347ad6" align="right"/>
-<!--
+# Welcome to Sneaky Shadows 👀🕵🏻‍♂️
 
+<!-- ![Sneaky Shadows Logo](https://github.com/SneakyShadows/.github/assets/92221630/50774f3d-165a-45f5-bddf-8f3805347ad6) -->
 
-**Here are some ideas to get you started:**
+<img src="https://github.com/SneakyShadows/.github/assets/92221630/50774f3d-165a-45f5-bddf-8f3805347ad6" alt="Sneaky Shadows Logo" align="right">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-We are a community of young developers, looking forward to contribute to open-source projects and innovative new programs that could be useful for various means of people around us in daily tasks.
+### About Us 
 
-Everyone is heartily welcome ✨  We are open to all collaborations that could make us better the next day! 
-
-## Tools: 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Static Badge](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=powershell) ![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white) 
-![Browser](https://img.shields.io/badge/MS--Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)	![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+Sneaky Shadows is a dynamic community of passionate young developers committed to open-source projects and driven to create innovative software solutions. Our goal is to harness the power of technology to make a positive impact on the world.
 
 <br/>
+
+
+## Our Mission 🎯
+
+We aim to foster a collaborative and inclusive environment where developers of all levels can come together to share ideas, learn from one another, and collectively develop software that addresses real-world challenges. We believe in the power of open source to drive innovation and improve the lives of people worldwide.
 
 ![Static Badge](https://img.shields.io/badge/School%20Projects-0a00a0?style=for-the-badge&logo=python&label=Currently%20on&labelColor=000)
-![Static Badge](https://img.shields.io/badge/Twilio-0ffff0?style=for-the-badge&logo=twilio&label=api&labelColor=000&color=ff0ff0)
-![Static Badge](https://img.shields.io/badge/Digital%20Ocean-000fff?style=for-the-badge&logo=digitalocean&label=Cloud&labelColor=000&color=0000ff)
+
+## Join Our Community 🤝🏻
+
+We warmly welcome individuals who share our passion for technology, coding, and making a difference. Whether you are a seasoned developer, a newbie in the field, or simply someone interested in the world of software development, you'll find a place here.
+
+### How to Get Involved 
+
+- **Explore Our Projects:** Take a look at our open-source projects on [GitHub](https://github.com/SneakyShadows). Contribute to ongoing initiatives or start your own project with our support.
+
+- **Join Our Discord Community:** Connect with fellow developers, ask questions, and share your experiences on our [Discord server](https://discord.gg/t98xrAbhHJ). It's the perfect place to engage with the community and find like-minded individuals.
+
+- **Collaborate and Learn:** We organize regular meetups, webinars, and hackathons to foster collaboration and learning. Stay tuned for updates on our Discord server and GitHub.
+
+## Stay Connected 🌐
+
+Join our online platforms to stay updated and connected:
+
+<!-- - **Discord Server:** [![Join our Discord server](https://img.shields.io/badge/Join_us_!-000?style=for-the-badge&logo=Discord&logoColor=blue&label=Discord&labelColor=black&color=ffd900)](https://discord.gg/t98xrAbhHJ)
+
+- **GitHub Organization:** [![Sneaky Shadows on GitHub](https://img.shields.io/badge/Sneaky_Shadows-000?style=for-the-badge&logo=Github&logoColor=white&label=GitHub&labelColor=black&color=ffd900)](https://github.com/SneakyShadows)
+ -->
+
+<!-- ## Stay Tuned -->
+
+[<img src="https://img.shields.io/badge/Join_us_!-000?style=for-the-badge&logo=Discord&logoColor=blue&label=Discord&labelColor=black&color=be9f5b&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
+[<img src="https://img.shields.io/badge/Sneaky_Shadows-000?style=for-the-badge&logo=Github&logoColor=white&label=GitHub&labelColor=000&color=be9f5b" alt="SneakyShadows">](https://github.com/SneakyShadows)
 
 
-<br/>
-
-## Stay Tuned!
-
-[<img src="https://img.shields.io/badge/Discord-server?logo=discord&label=Join%20Us!&labelColor=black&link=https%3A%2F%2Fdiscord.gg%2Ft98xrAbhHJ" alt="Discord server"/>](https://discord.gg/t98xrAbhHJ) &nbsp;
-[<img src="https://img.shields.io/badge/GitHub-SneakyShadows-black?logo=github" alt="SneakyShadows">](https://github.com/SneakyShadows)
+We are excited to have you join our community. Let's collaborate, learn, and build incredible software together! 🚀
