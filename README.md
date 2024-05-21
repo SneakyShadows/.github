@@ -15,7 +15,7 @@ Sneaky Shadows is a dynamic community of passionate young developers committed t
 
 We aim to foster a collaborative and inclusive environment where developers of all levels can come together to share ideas, learn from one another, and collectively develop software that addresses real-world challenges. We believe in the power of open source to drive innovation and improve the lives of people worldwide.
 
-![Static Badge](https://img.shields.io/badge/School%20Projects-0a00a0?style=for-the-badge&logo=python&label=Currently%20on&labelColor=000)
+![Static Badge](https://img.shields.io/badge/Skills%20Lookout-0a00a0?style=for-the-badge&logo=python&label=Currently%20on&labelColor=000)
 
 ## Join Our Community 🤝🏻
 
